@@ -1,0 +1,273 @@
+
+---Downloaded files---
+The import files for: Shopping Cart Demo were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = http://localhost/dm/shop
+Data file = D:\server\htdocs\dm\shop/wp-content/themes/shoppingcart/inc/tgm/dummy/shoppingcart.wordpress.xml
+Widget file = D:\server\htdocs\dm\shop/wp-content/themes/shoppingcart/inc/tgm/dummy/shoppingcart-widgets.wie
+Customizer file = D:\server\htdocs\dm\shop/wp-content/themes/shoppingcart/inc/tgm/dummy/shoppingcart-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Automobiles
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Girls
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hand Bags
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Wood
+[WARNING] Failed to import product_cat Brand 1
+[WARNING] Failed to import product_cat Brand 2
+[WARNING] Failed to import product_cat Brand 3
+[WARNING] Failed to import product_cat Brand 4
+[WARNING] Failed to import product_cat Brand 5
+[WARNING] Failed to import product_cat Brand 6
+[WARNING] Failed to import product_cat Brand 7
+[WARNING] Failed to import product_cat Brand 8
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Mixed
+[WARNING] Failed to import product_cat Popular Item
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_cat Shorts
+[WARNING] Failed to import product_cat Slider
+[WARNING] Failed to import product_cat Sports
+[WARNING] Failed to import product_cat Watches
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Automobiles
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Girls
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hand Bags
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Wood
+[WARNING] Failed to import product_cat Brand 1
+[WARNING] Failed to import product_cat Brand 2
+[WARNING] Failed to import product_cat Brand 3
+[WARNING] Failed to import product_cat Brand 4
+[WARNING] Failed to import product_cat Brand 5
+[WARNING] Failed to import product_cat Brand 6
+[WARNING] Failed to import product_cat Brand 7
+[WARNING] Failed to import product_cat Brand 8
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Mixed
+[WARNING] Failed to import product_cat Popular Item
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_cat Shorts
+[WARNING] Failed to import product_cat Slider
+[WARNING] Failed to import product_cat Sports
+[WARNING] Failed to import product_cat Watches
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Automobiles
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Girls
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hand Bags
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Wood
+[WARNING] Failed to import product_cat Brand 1
+[WARNING] Failed to import product_cat Brand 2
+[WARNING] Failed to import product_cat Brand 3
+[WARNING] Failed to import product_cat Brand 4
+[WARNING] Failed to import product_cat Brand 5
+[WARNING] Failed to import product_cat Brand 6
+[WARNING] Failed to import product_cat Brand 7
+[WARNING] Failed to import product_cat Brand 8
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Mixed
+[WARNING] Failed to import product_cat Popular Item
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_cat Shorts
+[WARNING] Failed to import product_cat Slider
+[WARNING] Failed to import product_cat Sports
+[WARNING] Failed to import product_cat Watches
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Automobiles
+[WARNING] Failed to import product_tag Girls
+[WARNING] Failed to import product_tag Hand Bags
+[WARNING] Failed to import product_tag Wood
+[WARNING] Failed to import product_cat Brand 1
+[WARNING] Failed to import product_cat Brand 2
+[WARNING] Failed to import product_cat Brand 3
+[WARNING] Failed to import product_cat Brand 4
+[WARNING] Failed to import product_cat Brand 5
+[WARNING] Failed to import product_cat Brand 6
+[WARNING] Failed to import product_cat Brand 7
+[WARNING] Failed to import product_cat Brand 8
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Mixed
+[WARNING] Failed to import product_cat Popular Item
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import product_cat Shorts
+[WARNING] Failed to import product_cat Slider
+[WARNING] Failed to import product_cat Sports
+[WARNING] Failed to import product_cat Watches
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Cari - No Title - Widget already exists
+TF: Popular Posts - No Title - Imported
+Arsip - No Title - Widget already exists
+Kategori - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Top Header Info : 
+
+Teks - No Title - Imported
+
+Advertisement Banner One : 
+
+Gambar - No Title - Imported
+
+Shopping Cart Template : 
+
+TF: Product Grid Column Widget - Best Selling Products - Imported
+Products - Products - Imported
+TF: Product Grid Column Widget - Featured Products - Imported
+Products by Rating - Top rated products - Imported
+TF: Product Grid Column Widget - New Arrival Product - Imported
+
+Contact Page Sidebar : 
+
+HTML Khusus - Contact Info - Imported
+
+WooCommerce Sidebar : 
+
+Product Categories - Product categories - Imported
+Active Product Filters - Active filters - Imported
+Filter Products by Price - Filter by price - Imported
+Products - Products - Imported
+Product Tag Cloud - Product tags - Imported
+
+ ShoppingCart Template Footer Column 1 : 
+
+Products - Featured Products - Imported
+
+ ShoppingCart Template Footer Column 2 : 
+
+Products - On Sale Products - Imported
+
+ ShoppingCart Template Footer Column 3 : 
+
+Products - All Products - Imported
+
+ ShoppingCart Template Footer Column 4 : 
+
+Products - Products - Imported
+
+Footer Column 1 : 
+
+Teks - No Title - Imported
+
+Footer Column 2 : 
+
+HTML Khusus - We Accept - Imported
+
+Footer Column 3 : 
+
+HTML Khusus - Shop Location - Imported
+
+Footer Column 4 : 
+
+Gambar - Download App - Imported
+Gambar - No Title - Imported
+
+Max Mega Menu Widgets : 
+
+Products - Products - Imported
+Teks - No Title - Imported
+Products - Products - Imported
+Teks - No Title - Imported
+Max Mega Menu - No Title - Imported
+Menu Navigasi - No Title - Imported
+Gambar - Featured Product - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,99 @@
+
+---Downloaded files---
+The import files for: Shopping Cart Demo were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = http://localhost/dm/shop
+Data file = D:\server\htdocs\dm\shop/wp-content/themes/shoppingcart/inc/tgm/dummy/shoppingcart.wordpress.xml
+Widget file = D:\server\htdocs\dm\shop/wp-content/themes/shoppingcart/inc/tgm/dummy/shoppingcart-widgets.wie
+Customizer file = D:\server\htdocs\dm\shop/wp-content/themes/shoppingcart/inc/tgm/dummy/shoppingcart-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Main Sidebar : 
+
+Cari - No Title - Widget already exists
+TF: Popular Posts - No Title - Widget already exists
+Arsip - No Title - Widget already exists
+Kategori - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Top Header Info : 
+
+Teks - No Title - Widget already exists
+
+Advertisement Banner One : 
+
+Gambar - No Title - Widget already exists
+
+Shopping Cart Template : 
+
+TF: Product Grid Column Widget - Best Selling Products - Widget already exists
+Products - Products - Widget already exists
+TF: Product Grid Column Widget - Featured Products - Widget already exists
+Products by Rating - Top rated products - Widget already exists
+TF: Product Grid Column Widget - New Arrival Product - Widget already exists
+
+Contact Page Sidebar : 
+
+HTML Khusus - Contact Info - Widget already exists
+
+WooCommerce Sidebar : 
+
+Product Categories - Product categories - Widget already exists
+Active Product Filters - Active filters - Widget already exists
+Filter Products by Price - Filter by price - Widget already exists
+Products - Products - Widget already exists
+Product Tag Cloud - Product tags - Widget already exists
+
+ ShoppingCart Template Footer Column 1 : 
+
+Products - Featured Products - Widget already exists
+
+ ShoppingCart Template Footer Column 2 : 
+
+Products - On Sale Products - Widget already exists
+
+ ShoppingCart Template Footer Column 3 : 
+
+Products - All Products - Widget already exists
+
+ ShoppingCart Template Footer Column 4 : 
+
+Products - Products - Widget already exists
+
+Footer Column 1 : 
+
+Teks - No Title - Widget already exists
+
+Footer Column 2 : 
+
+HTML Khusus - We Accept - Widget already exists
+
+Footer Column 3 : 
+
+HTML Khusus - Shop Location - Widget already exists
+
+Footer Column 4 : 
+
+Gambar - Download App - Widget already exists
+Gambar - No Title - Widget already exists
+
+Max Mega Menu Widgets : 
+
+Products - Products - Widget already exists
+Teks - No Title - Widget already exists
+Products - Products - Widget already exists
+Teks - No Title - Widget already exists
+Max Mega Menu - No Title - Widget already exists
+Menu Navigasi - No Title - Widget already exists
+Gambar - Featured Product - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
